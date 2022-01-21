@@ -3,7 +3,6 @@ layout: about
 permalink: /
 title: about
 priority: 1
-subtitle: <strong>Bruce Hay</strong> Lab
 
 profile:
   align: right

@@ -5,7 +5,7 @@ title: projects
 priority: 2
 description: Current Projects in the Hay Lab.
 nav: true
-display_categories: [work, fun]
+display_categories: false
 horizontal: false
 ---
 
