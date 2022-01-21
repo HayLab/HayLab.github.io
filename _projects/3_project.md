@@ -1,81 +1,21 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Engineering the plant mitochondrial genome.
+description:
+img: /assets/img/engineering plant mitochondrial genome.jpg
 importance: 3
-category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="figure">
+    <img src="{{ site.baseurl }}/assets/img/engineering plant mitochondrial genome.jpg" title="" class="center"/>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+<br>
+Our goal is to make the mitochondrial genome (mtDNA) into a platform for synthetic biology by developing mtDNA transgenesis in plants. This may contribute to biotechnology and agriculture in several ways. Because mtDNA is present in many copies per cell, high-level expression of mtDNA-encoded transgenes may be possible. The mitochondrial matrix, wherein mtDNA resides, provides an isolated compartment in which novel products can be synthesized and metabolic engineering carried out. mtDNA gene regulation uses prokaryotic-type machinery. Therefore, it is possible that, as with the chloroplast, transgene expression and translation can be regulated using prokaryotic components, which are well characterized. This, and the operon arrangement of many genes in plant mtDNA, may allow for orthogonal control and stacking of traits and pathways in mtDNA. Finally, mitochondria can migrate through a graft, from one plant to another. This opens up the possibility of moving transgenes and engineered pathways from one plant variety or species to another independent of mating.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="img_row">
+    <img class="col oneoftwo left" src="{{ site.baseurl }}/assets/img/Arabidposis.jpg" alt="" title="Arabidposis"/>
+    <img class="col oneoftwo left" src="{{ site.baseurl }}/assets/img/Nicotine.jpg" alt="" title="Nicotine"/>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+<div class="col three caption">
+    Arabidopsis on the left, nicotine on the right.
 </div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
