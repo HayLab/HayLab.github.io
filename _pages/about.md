@@ -1,7 +1,8 @@
 ---
 layout: about
-title: about
 permalink: /
+title: about
+priority: 1
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
