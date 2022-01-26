@@ -15,12 +15,10 @@ Our goal is to make the mitochondrial genome (mtDNA) into a platform for synthet
 <div class="row justify-content-sm-center">
     <div class="col">
         {% include figure.html path="assets/img/Arabidposis.jpg" title="Arabidposis" class="img-fluid rounded z-depth-1" %}
+        <strong>Arabidopsis</strong>
     </div>
     <div class="col">
         {% include figure.html path="assets/img/Nicotine.jpg" title="Nicotine" class="img-fluid rounded z-depth-1" %}
+        <strong>Nicotine</strong>
     </div>
-</div>
-
-<div class="col three caption">
-    Arabidopsis on the left, nicotine on the right.
 </div>

@@ -9,7 +9,7 @@ nav: true
 
 <div class="row">
   <div class="col">
-    {% include figure.html path="assets/img/Bruce.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/Bruce.jpg" height=200px class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
         Bruce Hay
@@ -18,7 +18,7 @@ nav: true
     Professor and Principle Investigator, PhD
   </div>
   <div class="col">
-    {% include figure.html path="assets/img/Georg.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/Georg.jpg" height=200px class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
         Georg Oberhofer
@@ -27,7 +27,7 @@ nav: true
     Postdoctoral Fellow, PhD
   </div>
   <div class="col">
-    {% include figure.html path="assets/img/Marlene.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/Marlene.jpg" height=200px class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
         Marlene Biller
@@ -37,7 +37,7 @@ nav: true
   </div>
   <div class="w-100"></div><br>
   <div class="col">
-    {% include figure.html path="assets/img/Tobin.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/Tobin.jpg" height=200px class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
         Tobin Ivy
@@ -46,7 +46,7 @@ nav: true
     Graduate Student
   </div>
   <div class="col">
-    {% include figure.html path="assets/img/Reid.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/Reid.jpg" height=200px class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
         Reid Banciella
@@ -55,7 +55,7 @@ nav: true
     Undergraduate Researcher, Biology '23
   </div>
   <div class="col">
-    {% include figure.html path="assets/img/Jackie.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/Jackie.jpg" height=200px class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
         Jackie Wang
@@ -65,7 +65,7 @@ nav: true
   </div>
   <div class="w-100"></div><br>
   <div class="col">
-    {% include figure.html path="assets/img/Bence.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/Bence.jpg" height=200px class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
         Bence Koever
@@ -74,7 +74,7 @@ nav: true
     Undergraduate Researcher, Biology '23 (Exchange Student)
   </div>
   <div class="col">
-    {% include figure.html path="assets/img/Roy.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/Roy.jpg" height=200px class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
         Roy Jiang
