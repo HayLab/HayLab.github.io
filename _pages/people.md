@@ -60,7 +60,7 @@ nav: true
       <center>
         Jackie Wang
       </center>
-    </strong><br style="line-height: 10px" />
+    </strong><br style="line-height: 5px" />
     Undergraduate Researcher, Bioengineering '23
   </div>
   <div class="w-100"></div><br>
@@ -70,7 +70,7 @@ nav: true
       <center>
         Bence Koever
       </center>
-    </strong><br style="line-height: 10px" />
+    </strong><br style="line-height: 50px" />
     Undergraduate Researcher, Biology '23 (Exchange Student)
   </div>
   <div class="col">
