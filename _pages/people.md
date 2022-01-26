@@ -18,6 +18,7 @@ nav: true
     Professor and Principle Investigator, PhD
   </div>
   <div class="col">
+    {% include figure.html path="assets/img/Georg.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
         Georg Oberhofer
