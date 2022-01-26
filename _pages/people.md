@@ -34,7 +34,7 @@ nav: true
     </strong><br>
     Research Scientist, PhD
   </div>
-  <div class="w-100"></div>
+  <div class="w-100"></div><br>
   <div class="col">
     {% include figure.html path="assets/img/Tobin.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
@@ -62,7 +62,7 @@ nav: true
     </strong><br>
     Undergraduate Researcher, Bioengineering '23
   </div>
-  <div class="w-100"></div>
+  <div class="w-100"></div><br>
   <div class="col">
     {% include figure.html path="assets/img/Bence.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
