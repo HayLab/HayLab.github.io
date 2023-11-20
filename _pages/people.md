@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /people/
-title: people
+title: people - currently updating
 priority: 4
 description:
 nav: true
@@ -48,33 +48,54 @@ nav: true
     Graduate Student
   </div>
   <div class="col">
-    {% include figure.html path="assets/img/Jackie.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="TODO" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
-        Jackie Wang
+        Thomas Adamo-Schmidt
       </center>
     </strong><br>
-    Undergraduate Researcher, Bioengineering '23
+    Graduate Student
   </div>
+  <div class="col">
+    {% include figure.html path="TODO" class="img-fluid rounded z-depth-1" %}
+    <strong>
+      <center>
+        Ella Wood
+      </center>
+    </strong><br>
+    Research Technician, Lab Manager
+  </div>
+  
   <div class="w-100"></div><br>
+
   <div class="col">
-    {% include figure.html path="assets/img/Bence.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="TODO" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
-        Bence Koever
+        Ben Simpson
       </center>
     </strong><br>
-    Undergraduate Researcher, Biology '23 (Exchange Student)
+    Research Technician
   </div>
   <div class="col">
-    {% include figure.html path="assets/img/Roy.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="TODO" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
-        Roy Jiang
+        Michelle Johnson
       </center>
     </strong><br>
-    Undergraduate Researcher
+    Research Technician
   </div>
   <div class="col">
+    {% include figure.html path="TODO" class="img-fluid rounded z-depth-1" %}
+    <strong>
+      <center>
+        Grace Wilson
+      </center>
+    </strong><br>
+    Undergraduate Researcher, [MAJOR] [YEAR]
   </div>
+
+  <!-- <div class="col">
+  </div> -->
 </div>
