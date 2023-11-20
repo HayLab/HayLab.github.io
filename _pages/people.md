@@ -35,7 +35,9 @@ nav: true
     </strong><br>
     Research Scientist, PhD
   </div>
+
   <div class="w-100"></div><br>
+  
   <div class="col">
     {% include figure.html path="assets/img/Tobin.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
@@ -45,7 +47,7 @@ nav: true
     </strong><br>
     Graduate Student
   </div>
-  <div class="col">
+  <!-- <div class="col">
     {% include figure.html path="assets/img/Reid.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
@@ -53,7 +55,7 @@ nav: true
       </center>
     </strong><br>
     Undergraduate Researcher, Biology '23
-  </div>
+  </div> -->
   <div class="col">
     {% include figure.html path="assets/img/Jackie.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
