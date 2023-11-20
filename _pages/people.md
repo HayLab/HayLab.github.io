@@ -47,15 +47,6 @@ nav: true
     </strong><br>
     Graduate Student
   </div>
-  <!-- <div class="col">
-    {% include figure.html path="assets/img/Reid.jpg" class="img-fluid rounded z-depth-1" %}
-    <strong>
-      <center>
-        Reid Banciella
-      </center>
-    </strong><br>
-    Undergraduate Researcher, Biology '23
-  </div> -->
   <div class="col">
     {% include figure.html path="assets/img/Jackie.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
