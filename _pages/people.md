@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /people/
-title: people - currently updating
+title: people
 priority: 4
 description:
 nav: true
@@ -27,13 +27,13 @@ nav: true
     Postdoctoral Fellow, PhD
   </div>
   <div class="col">
-    {% include figure.html path="assets/img/Marlene.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/Marken_photo_square.png" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
-        Marlene Biller
+        John Marken
       </center>
     </strong><br>
-    Research Scientist, PhD
+    Postdoctoral Scholar, PhD
   </div>
 
   <div class="w-100"></div><br>
@@ -48,7 +48,7 @@ nav: true
     Graduate Student
   </div>
   <div class="col">
-    {% include figure.html path="TODO" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/TomSelf1.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
         Thomas Adamo-Schmidt
@@ -60,6 +60,36 @@ nav: true
     {% include figure.html path="TODO" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
+        Grace Wilson
+      </center>
+    </strong><br>
+    Undergraduate Researcher, [MAJOR] [YEAR]
+  </div>
+
+  <div class="w-100"></div><br>
+  
+  <div class="col">
+    {% include figure.html path="assets/img/Cyril.JPG" class="img-fluid rounded z-depth-1" %}
+    <strong>
+      <center>
+        Cyril De Villiers de la Noue
+      </center>
+    </strong><br>
+    Undergraduate Researcher, Molecular Biology '25, Exchange student from UCL
+  </div>
+  <div class="col">
+    {% include figure.html path="assets/img/Emma_Olinger.jpg" class="img-fluid rounded z-depth-1" %}
+    <strong>
+      <center>
+        Emma Olinger
+      </center>
+    </strong><br>
+    Undergraduate Researcher, Bioengineering '26
+  </div>
+  <div class="col">
+    {% include figure.html path="assets/img/TODO" class="img-fluid rounded z-depth-1" %}
+    <strong>
+      <center>
         Ella Wood
       </center>
     </strong><br>
@@ -69,7 +99,7 @@ nav: true
   <div class="w-100"></div><br>
 
   <div class="col">
-    {% include figure.html path="TODO" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/Ben.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
         Ben Simpson
@@ -78,7 +108,7 @@ nav: true
     Research Technician
   </div>
   <div class="col">
-    {% include figure.html path="TODO" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/Michelle.png" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
         Michelle Johnson
@@ -86,16 +116,7 @@ nav: true
     </strong><br>
     Research Technician
   </div>
+  
   <div class="col">
-    {% include figure.html path="TODO" class="img-fluid rounded z-depth-1" %}
-    <strong>
-      <center>
-        Grace Wilson
-      </center>
-    </strong><br>
-    Undergraduate Researcher, [MAJOR] [YEAR]
   </div>
-
-  <!-- <div class="col">
-  </div> -->
 </div>
