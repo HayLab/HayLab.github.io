@@ -67,9 +67,9 @@ nav: true
   </div>
 
   <div class="w-100"></div><br>
-  
+
   <div class="col">
-    {% include figure.html path="assets/img/Cyril.JPG" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/Cyril.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
         Cyril De Villiers de la Noue
