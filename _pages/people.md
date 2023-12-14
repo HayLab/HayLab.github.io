@@ -17,6 +17,7 @@ nav: true
     </strong><br>
     Professor and Principle Investigator, PhD
   </div>
+
   <div class="col">
     {% include figure.html path="assets/img/Georg.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
@@ -26,6 +27,7 @@ nav: true
     </strong><br>
     Postdoctoral Fellow, PhD
   </div>
+
   <div class="col">
     {% include figure.html path="assets/img/Marken_photo_square.png" class="img-fluid rounded z-depth-1" %}
     <strong>
@@ -47,6 +49,7 @@ nav: true
     </strong><br>
     Graduate Student
   </div>
+
   <div class="col">
     {% include figure.html path="assets/img/TomSelf1.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
@@ -56,6 +59,7 @@ nav: true
     </strong><br>
     Graduate Student
   </div>
+
   <div class="col">
     {% include figure.html path="TODO" class="img-fluid rounded z-depth-1" %}
     <strong>
@@ -69,7 +73,7 @@ nav: true
   <div class="w-100"></div><br>
 
   <div class="col">
-    {% include figure.html path="assets/img/Cyril.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/Cyril copy.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
         Cyril De Villiers de la Noue
@@ -77,6 +81,7 @@ nav: true
     </strong><br>
     Undergraduate Researcher, Molecular Biology '25, Exchange student from UCL
   </div>
+
   <div class="col">
     {% include figure.html path="assets/img/Emma_Olinger.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
@@ -86,6 +91,7 @@ nav: true
     </strong><br>
     Undergraduate Researcher, Bioengineering '26
   </div>
+
   <div class="col">
     {% include figure.html path="assets/img/Mannare.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
