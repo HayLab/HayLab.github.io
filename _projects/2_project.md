@@ -3,7 +3,7 @@ layout: page
 title: Controlling the composition and fate of wild populations.
 description:
 img: /assets/img/population modification.jpg
-importance: 4
+importance: 2
 ---
 
 <div class="figure">

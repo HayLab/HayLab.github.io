@@ -3,7 +3,7 @@ layout: page
 title: Engineering the mammalian mitochondrial genome, and movement of mitochondria between cells
 description:
 img: /assets/img/BeckmanInstitute.jpg
-importance: 2
+importance: None
 ---
 
 Recent evidence from a number of labs suggests that mitochondria can move between cells. With respect to the nervous system in particular, there is evidence that mitochondria can move from astrocytes to neurons following stroke and that this promotes neuroprotection. Other observations suggest that infusion of healthy mitochondria can be cardioprotective. Conversely, transfer of healthy mitochondria from surrounding cells to tumors may also promote cancer. The idea that mitochondria might move between cells in physiological contexts is quite exciting but essentially unexplored in terms of how, when, where and kinds of regulation. Transferred mitochondria could provide a localized source of energy production in the recipient cell. They could also be involved in a number of other local mitochondria-based metabolic activities. Finally, because mitochondria carry their own genome, such movement would also be associated with the long-term movement of self-replicating information between cells. Given the high frequency of pathogenic mutations noted above, it becomes interesting to determine the contexts in which mitochondria move between cells of the nervous system and other tissues, and whether this acts to promote normal function and/or spread pathology.

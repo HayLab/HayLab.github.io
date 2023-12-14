@@ -3,7 +3,7 @@ layout: page
 title: Interactive learning and Community Science Academy.
 description:
 img: /assets/img/Library.jpg
-importance: 7
+importance: 5
 ---
 
 For the last four years the Hay lab has been pioneering use of the [SKIES](https://www.skieslearn.com/){:target="\_blank"} learning system to enhance student participation in class, to provide new forums for asking questions, and to encourage students to add their own content to genetics lectures, in the form of links to scientific articles, in-class clarifications, in-depth explanations, and flashcards. More recently, a number of other Professors have begun using this system. An important goal going forward is to create links between classes so as to create a more general web of knowledge that students and others can use to explore.

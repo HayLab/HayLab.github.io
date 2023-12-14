@@ -3,7 +3,7 @@ layout: page
 title: Engineering organismal physiology.
 description: Lifetime, single shot contraception as an example.
 img: /assets/img/vectored contraception.jpg
-importance: 5
+importance: 3
 ---
 
 <div class="figure">
