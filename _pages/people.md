@@ -87,6 +87,18 @@ nav: true
     Undergraduate Researcher, Bioengineering '26
   </div>
   <div class="col">
+    {% include figure.html path="assets/img/Mannare.jpg" class="img-fluid rounded z-depth-1" %}
+    <strong>
+      <center>
+        Mannare Nuermaimaiti
+      </center>
+    </strong><br>
+    Undergraduate Researcher, Bioengineering '27
+  </div>
+
+  <div class="w-100"></div><br>
+
+  <div class="col">
     {% include figure.html path="assets/img/TODO" class="img-fluid rounded z-depth-1" %}
     <strong>
       <center>
@@ -95,9 +107,6 @@ nav: true
     </strong><br>
     Research Technician, Lab Manager
   </div>
-  
-  <div class="w-100"></div><br>
-
   <div class="col">
     {% include figure.html path="assets/img/Ben.jpg" class="img-fluid rounded z-depth-1" %}
     <strong>
@@ -117,6 +126,6 @@ nav: true
     Research Technician
   </div>
   
-  <div class="col">
-  </div>
+  <!-- <div class="col">
+  </div> -->
 </div>
