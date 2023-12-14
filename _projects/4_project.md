@@ -1,13 +1,9 @@
 ---
 layout: page
-title: Controlling the composition and fate of wild populations.
+title: Engineering antigen-specific tolerance
 description:
-img: /assets/img/population modification.jpg
-importance: 4
+img: /assets/img/Broad_side.jpg
+importance: 6
 ---
 
-<div class="figure">
-    <img src="{{ site.baseurl }}/assets/img/population modification.jpg" title="" class="img-fluid"/>
-</div>
-<br>
-Another set of projects address three questions in applied evolutionary population biology. 1) Can we bring about reproductive isolation (speciation) between populations of plants or animals that otherwise freely interbreed? Answers to this question have application to the growing number of situations in which plants and animals are engineered to show specific pharmaceutical or agricultural traits. In brief, we would like to be able to limit gene flow between engineered organisms and their wild counterparts. 2) Can we engineer the genetics of populations so that they drive themselves to local extinction? For example, invasive non-native plants and animals cause substantial economic losses and sometimes function as vectors of disease. A number also cause substantial environmental damage, leading in many cases to extensive range reduction and/or extinction of unique, endemic species. Our goal is to develop genetic tricks that drive local extinction of invasive species and disease vectors. 3) Can we drive genes into wild populations (population replacement) such that all individuals express a trait of interest? With regard to this last aim, we are also interested in developing transgenic mosquitoes that lack the ability to transmit pathogens such as malaria, dengue fever and chikungunya. We are also working with the citrus industry to develop population replacement-based strategies to prevent the citrus psyllid, an invasive insect, from transmitting Candidatus Liberobacter, the causative agent of the citrus disease HLB.
+Antigen-specific tolerance is desired in autoimmunity, transplantation, allergy, type I diabetes and other diseases, and is also desirable in the context of therapy with autologous proteins and non-autologous proteins. Such a method can be especially useful for those receiving recombinant proteins. There are a variety of recombinant proteins (RP) that are introduced into people on a chronic basis. Adverse reactions occur in some of these patients. In addition, induction of an anti-drug immune response can result in loss of RP efficacy. Antibodies generated against the RP are one important mechanism by which the abovementioned failures can occur. In some cases the RP is a foreign protein, and the RP is simply seen as non-self and eliminated through activation of an immune response. In other cases, antibodies are raised against therapeutic antibodies, which have undergone extensive "humanization" so as to be rendered as "self like" as possible. However, even in these cases anti-antibody responses are sometimes induced. We are developing ways of tagging proteins that promote their being seen as self-antigens, thereby preventing an immune response, or eliminating an ongoing immune response.
