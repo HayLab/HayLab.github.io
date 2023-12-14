@@ -38,7 +38,7 @@ nav: true
     Postdoctoral Scholar, PhD
   </div>
 
-  <div class="w-100"></div><br>
+  <div class="w-100"><br></div><br>
   
   <div class="col">
     {% include figure.html path="assets/img/Tobin.jpg" class="img-fluid rounded z-depth-1" %}
@@ -70,7 +70,7 @@ nav: true
     Undergraduate Researcher, [MAJOR] [YEAR]
   </div>
 
-  <div class="w-100"></div><br>
+  <div class="w-100"><br></div><br>
 
   <div class="col">
     {% include figure.html path="assets/img/Cyril copy.jpg" class="img-fluid rounded z-depth-1" %}
@@ -102,7 +102,7 @@ nav: true
     Undergraduate Researcher, Bioengineering '27
   </div>
 
-  <div class="w-100"></div><br>
+  <div class="w-100"><br></div><br>
 
   <div class="col">
     {% include figure.html path="assets/img/TODO" class="img-fluid rounded z-depth-1" %}
