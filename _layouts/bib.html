@@ -109,6 +109,14 @@
             <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
             {%- endif %}
           {%- endif %}
+          <!--- Michelle adds preprint button stuff -->
+          {%- if entry.preprint %}
+            {% if entry.preprint contains '://' -%}
+            <a href="{{ entry.preprint }}" class="btn btn-sm z-depth-0" role="button">PrePrint</a>
+            {%- else -%}
+            <a href="{{ entry.preprint | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PrePrint</a>
+            {%- endif %}
+          {%- endif %}
           {%- if entry.supp %}
             {% if entry.supp contains '://' -%}
             <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
@@ -138,6 +146,21 @@
           {%- endif %}
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+          {%- endif %}
+          <!--- Michelle adds press release button stuff -->
+          {%- if entry.pr1 %}
+            {% if entry.pr1 contains '://' -%}
+            <a href="{{ entry.pr1 }}" class="btn btn-sm z-depth-0" role="button">Press Release</a>
+            {%- else -%}
+            <a href="{{ entry.pr1 | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Press Release</a>
+            {%- endif %}
+          {%- endif %}
+          {%- if entry.pr2 %}
+            {% if entry.pr2 contains '://' -%}
+            <a href="{{ entry.pr2 }}" class="btn btn-sm z-depth-0" role="button">Press Release</a>
+            {%- else -%}
+            <a href="{{ entry.pr2 | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Press Release</a>
+            {%- endif %}
           {%- endif %}
           </div>
 
