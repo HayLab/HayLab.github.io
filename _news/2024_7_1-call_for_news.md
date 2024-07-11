@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-07-10
+date: 2024-07-1
 title: In Need of News
 inline: false
 related_posts: false
